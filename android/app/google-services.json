@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299814185937",
+    "project_id": "fir-getx-auth-c06f4",
+    "storage_bucket": "fir-getx-auth-c06f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299814185937:android:3cbbc1a46798f3c0ab0ef0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_getx_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4DpVoIWMoXoxns6lmTANFlWOmsVBtFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
